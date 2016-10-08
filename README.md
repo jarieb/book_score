@@ -78,7 +78,7 @@ The 6 different story types are: rages to riches (rise), riches to rages (fall),
 man in a hole (fall then rise), Icraus (rise then fall), 
 Cinderella (rise then fall then rise), and Oedipus (fall then rise then fall).
 
-These story types are based on Kurt Vonnegut’s story mapping in Palm Sunday](http://www.theatlantic.com/technology/archive/2016/07/the-six-main-arcs-in-storytelling-identified-by-a-computer/490733/).
+These story types are based on [Kurt Vonnegut’s story mapping in Palm Sunday](http://www.theatlantic.com/technology/archive/2016/07/the-six-main-arcs-in-storytelling-identified-by-a-computer/490733/).
 
 The Word Count (WC) and Reading Level (RL) were added so I can track my progress
 and make the overall book have a reading level of around 8th grade. 8th grade
