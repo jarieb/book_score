@@ -1,0 +1,4 @@
+argparse==1.2.1
+labMTsimple==2.8.4
+natsort==5.0.1
+textstat==0.3.1

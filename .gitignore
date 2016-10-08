@@ -1,0 +1,10 @@
+*.pyc
+.DS_Store
+dist/
+build/
+2016*/
+2017*/
+*.egg-info/
+.project
+.pydevproject
+test.py
